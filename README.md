@@ -11,6 +11,3 @@
 - **Web:** HTML, CSS, JavaScript, Astro  
 - **SEO:** On-page SEO, Technical SEO, Site Optimization  
 - **Others:** Git, GitHub, Blogging  
-
-## 📈 Stats
-![Jack.Cooper's GitHub stats](https://github-readme-stats.vercel.app/api?username=junbo-le&show_icons=true&theme=radical)
