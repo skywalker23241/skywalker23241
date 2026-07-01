@@ -151,12 +151,22 @@ LEARNING      Cleaner Code / Faster Sites / Better UX / Advanced SEO
 
 ## 📊 GitHub Signal
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=skywalker23241&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=skywalker23241&theme=tokyonight"
+    alt="GitHub Profile Summary"
+  />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skywalker23241&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=skywalker23241&theme=tokyonight"
+    alt="Repos per Language"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=skywalker23241&theme=tokyonight"
+    alt="Most Commit Language"
+  />
 </p>
 
 ---
