@@ -157,18 +157,6 @@ LEARNING      Cleaner Code / Faster Sites / Better UX / Advanced SEO
     alt="GitHub Profile Summary"
   />
 </p>
-
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=skywalker23241&theme=tokyonight"
-    alt="Repos per Language"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=skywalker23241&theme=tokyonight"
-    alt="Most Commit Language"
-  />
-</p>
-
 ---
 
 ## ✦ Personal Frequency
