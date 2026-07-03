@@ -10,8 +10,8 @@
 </p>
 
 <p align="center">
-  <a href="https://hopp.bio/junbo-le">
-    <img src="https://img.shields.io/badge/Find_me-if_you_like_%E2%9D%A4-red?style=for-the-badge" alt="Find me" />
+  <a href="https://resume.abohack.com">
+    <img src="https://img.shields.io/badge/Resume-abohack.com-0f172a?style=for-the-badge" alt="Resume" />
   </a>
   <img src="https://img.shields.io/badge/Focus-SEO%20%26%20Web%20Development-2563eb?style=for-the-badge" alt="Focus" />
   <img src="https://img.shields.io/badge/Learning-Astro%20%26%20Technical%20SEO-7c3aed?style=for-the-badge" alt="Learning" />
@@ -27,7 +27,8 @@ REAL NAME     Junbo Le
 STATUS        Studying SEO & Web Development
 CURRENT ARC   Astro / Technical SEO / Web Optimization
 MISSION       Build useful, clean, lightweight web tools
-BLOG          http://jackcooper.qzz.io/
+BLOG          https://blog.abohack.com
+RESUME        https://resume.abohack.com
 ```
 
 ---
@@ -47,7 +48,7 @@ BLOG          http://jackcooper.qzz.io/
 
 ## 🚀 Project Fleet
 
-### 🪐 [Abo Blog](https://github.com/skywalker23241/abo)
+### 🪐 [Abo Blog](https://blog.abohack.com)
 
 My personal blog base — a place for thoughts, notes, web experiments, and long-term content exploration.
 
@@ -56,11 +57,13 @@ TYPE          Personal Blog / Astro Site
 STACK         Astro / MDX / TypeScript / CSS
 MISSION       Record thoughts, publish blogs, and optimize content structure
 SIGNAL        Blog + SEO + Web Writing
+LIVE          https://blog.abohack.com
+REPO          https://github.com/skywalker23241/abo
 ```
 
 ---
 
-### 🛰 [Sentinel](https://github.com/skywalker23241/sentinel)
+### 🛰 [Sentinel](https://status.abohack.com)
 
 A status monitoring and status-page project for tracking service health, uptime data, incidents, and public status APIs.
 
@@ -69,11 +72,13 @@ TYPE          Uptime Monitor / Status Page
 STACK         TypeScript / Cloudflare Workers / CSS
 MISSION       Watch services from orbit and report their status clearly
 SIGNAL        Monitoring / Status API / Incident History / RSS
+LIVE          https://status.abohack.com
+REPO          https://github.com/skywalker23241/sentinel
 ```
 
 ---
 
-### 🌙 [RestCal](https://github.com/skywalker23241/restcal)
+### 🌙 [RestCal](https://restcal.abohack.com)
 
 A work-life utility designed for attendance, leave, salary deduction, holiday tracking, and train-ticket reminder workflows.
 
@@ -82,11 +87,13 @@ TYPE          Productivity / Calendar / Salary Tool
 STACK         HTML / CSS / JavaScript / PWA / Electron
 MISSION       Help workers manage leave, attendance, salary, and holiday plans
 SIGNAL        Local-first / Offline-ready / CSV Backup / PWA
+LIVE          https://restcal.abohack.com
+REPO          https://github.com/skywalker23241/restcal
 ```
 
 ---
 
-### 💎 [RadiantShelf](https://github.com/skywalker23241/radiantshelf)
+### 💎 [RadiantShelf](https://val.abohack.com)
 
 A Valorant daily store viewer and notification tool with account binding, skin display, admin panel, and Webhook pushing.
 
@@ -95,6 +102,8 @@ TYPE          Valorant Store / Webhook / Self-hosted Tool
 STACK         Python / Flask / SQLite / Bootstrap
 MISSION       Check daily skins and push store updates automatically
 SIGNAL        Game Utility / Webhook / Scheduler / Multi-language UI
+LIVE          https://val.abohack.com
+REPO          https://github.com/skywalker23241/radiantshelf
 ```
 
 ---
@@ -109,6 +118,7 @@ STACK         React / TypeScript / Vite / Tailwind CSS / Zustand / Recharts
 MISSION       Track monthly budgets, loans, income, expenses, and financial goals
 SIGNAL        Budget / Expense Analysis / LocalStorage / Dashboard
 STATUS        In Development
+REPO          https://github.com/skywalker23241/personal-budget-app
 ```
 
 ---
@@ -142,8 +152,8 @@ LEARNING      Cleaner Code / Faster Sites / Better UX / Advanced SEO
 ## 🔗 Connect With Me
 
 <p align="left">
-  <a href="https://hopp.bio/junbo-le">
-    <img src="https://img.shields.io/badge/Find_me-if_you_like_%E2%9D%A4-red?style=for-the-badge" alt="Find me" />
+  <a href="https://resume.abohack.com">
+    <img src="https://img.shields.io/badge/Resume-abohack.com-0f172a?style=for-the-badge" alt="Resume" />
   </a>
 </p>
 
