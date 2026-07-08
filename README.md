@@ -63,7 +63,7 @@ REPO          https://github.com/skywalker23241/abo
 
 ---
 
-### 🛰 [Sentinel](https://status.abohack.com)
+### 🛰 [Scfi Status](https://status.abohack.com)
 
 A status monitoring and status-page project for tracking service health, uptime data, incidents, and public status APIs.
 
