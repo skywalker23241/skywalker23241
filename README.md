@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:1d4ed8,100:7c3aed&height=215&section=header&text=Abo%20%2F%20Junbo%20Le&fontColor=ffffff&fontSize=44&animation=fadeIn&fontAlignY=36&desc=SEO%20Explorer%20%C2%B7%20Web%20Builder%20%C2%B7%20Independent%20Maker&descAlignY=58&descSize=17" alt="Abo / Junbo Le" />
+<img width="100%" src="https://raw.githubusercontent.com/skywalker23241/skywalker23241/main/assets/blackhole-header.svg" alt="Abo / Junbo Le" />
 
 <img src="https://img.shields.io/badge/中文-当前语言-1d4ed8?style=for-the-badge" alt="当前语言：中文" />
 <a href="https://github.com/skywalker23241/skywalker23241/blob/main/README_EN.md"><img src="https://img.shields.io/badge/English-Switch-64748b?style=for-the-badge" alt="Switch to English" /></a>
@@ -132,6 +132,6 @@
 
 *“我们曾仰望星空，思考自己在群星之间的位置。”*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:1d4ed8,100:020617&height=115&section=footer" alt="页尾" />
+<img width="100%" src="https://raw.githubusercontent.com/skywalker23241/skywalker23241/main/assets/blackhole-footer.svg" alt="页尾" />
 
 </div>
