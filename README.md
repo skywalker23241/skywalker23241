@@ -9,9 +9,10 @@
 </p>
 
 <p align="center">
-  <a href="https://resume.abohack.com"><img src="https://img.shields.io/badge/Resume-0f172a?style=for-the-badge&logo=readme&logoColor=white" alt="Resume" /></a>
+  <a href="https://abohack.com"><img src="https://img.shields.io/badge/Website-abohack.com-0f172a?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Personal website" /></a>
   <a href="https://blog.abohack.com"><img src="https://img.shields.io/badge/Blog-2563eb?style=for-the-badge&logo=astro&logoColor=white" alt="Blog" /></a>
-  <a href="https://github.com/skywalker23241?tab=repositories"><img src="https://img.shields.io/badge/Projects-7c3aed?style=for-the-badge&logo=github&logoColor=white" alt="Projects" /></a>
+  <a href="https://resume.abohack.com"><img src="https://img.shields.io/badge/Resume-7c3aed?style=for-the-badge&logo=readme&logoColor=white" alt="Resume" /></a>
+  <a href="https://pagespeed.web.dev/analysis?url=https%3A%2F%2Fabohack.com%2F"><img src="https://img.shields.io/badge/PageSpeed-Insights-00bfa5?style=for-the-badge&logo=lighthouse&logoColor=white" alt="PageSpeed Insights for abohack.com" /></a>
 </p>
 
 ---
@@ -100,16 +101,16 @@ PRINCIPLES    Fast · Accessible · Responsive · Local-first · Useful
 ## 📊 GitHub Signal
 
 <p align="center">
-  <img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=skywalker23241&theme=tokyonight" alt="Abo's GitHub contribution summary" />
+  <img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=skywalker23241&theme=github" alt="Abo's GitHub contribution summary" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=skywalker23241&theme=tokyonight" alt="Repositories by language" />
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=skywalker23241&theme=tokyonight" alt="GitHub statistics" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=skywalker23241&theme=github" alt="Repositories by language" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=skywalker23241&theme=github" alt="GitHub statistics" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=skywalker23241&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+  <img src="https://streak-stats.demolab.com?user=skywalker23241&theme=default&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
 ## ✦ Personal Frequency
