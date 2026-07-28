@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/skywalker23241/skywalker23241/main/assets/blackhole-header.svg?v=minimal-1" alt="Abo / Junbo Le" />
+<img width="100%" src="https://raw.githubusercontent.com/skywalker23241/skywalker23241/main/assets/minimal-header.svg" alt="Abo / Junbo Le" />
 
 <a href="https://github.com/skywalker23241"><img src="https://img.shields.io/badge/中文-Switch-64748b?style=for-the-badge" alt="切换到中文" /></a>
 <img src="https://img.shields.io/badge/English-Current-1d4ed8?style=for-the-badge" alt="Current language: English" />
@@ -132,6 +132,6 @@ GAMES     Titanfall 2 · Halo · CS2 · League of Legends
 
 *“We used to look up at the sky and wonder at our place in the stars.”*
 
-<img width="100%" src="https://raw.githubusercontent.com/skywalker23241/skywalker23241/main/assets/blackhole-footer.svg?v=minimal-1" alt="Footer" />
+<img width="100%" src="https://raw.githubusercontent.com/skywalker23241/skywalker23241/main/assets/minimal-footer.svg" alt="Footer" />
 
 </div>
