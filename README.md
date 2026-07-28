@@ -167,7 +167,7 @@ LEARNING      Cleaner Code / Faster Sites / Better UX / Advanced SEO
     alt="GitHub Profile Summary"
   />
 </p>
-[![GitHub Streak](https://streak-stats.demolab.com/skywalker23241)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=skywalker" alt="GitHub Streak" /></a>
 ---
 
 ## ✦ Personal Frequency
