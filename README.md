@@ -2,21 +2,18 @@
 
 <img width="100%" src="https://raw.githubusercontent.com/skywalker23241/skywalker23241/main/assets/minimal-header.svg" alt="Abo / Junbo Le" />
 
-<img src="https://img.shields.io/badge/中文-当前语言-1d4ed8?style=for-the-badge" alt="当前语言：中文" />
-<a href="https://github.com/skywalker23241/skywalker23241/blob/main/README_EN.md"><img src="https://img.shields.io/badge/English-Switch-64748b?style=for-the-badge" alt="Switch to English" /></a>
+<p><strong>中文</strong> &nbsp;·&nbsp; <a href="https://github.com/skywalker23241/skywalker23241/blob/main/README_EN.md">English</a></p>
 
-<br/><br/>
+<p><strong>用快速、实用、容易被发现的产品，把想法变成现实</strong></p>
 
-### 用快速、实用、容易被发现的产品，把想法变成现实
+<p>
+<a href="https://abohack.com"><img src="https://img.shields.io/badge/个人主站-abohack.com-0f172a?style=flat-square&logo=googlechrome&logoColor=22d3ee" alt="个人主站" /></a>
+<a href="https://blog.abohack.com"><img src="https://img.shields.io/badge/博客-abohack-1d4ed8?style=flat-square&logo=astro&logoColor=white" alt="博客" /></a>
+<a href="https://resume.abohack.com"><img src="https://img.shields.io/badge/个人简历-Junbo_Le-7c3aed?style=flat-square&logo=readme&logoColor=white" alt="个人简历" /></a>
+<a href="https://status.abohack.com"><img src="https://img.shields.io/badge/服务状态-在线-059669?style=flat-square&logo=statuspage&logoColor=white" alt="服务状态" /></a>
+</p>
 
-<a href="https://abohack.com"><img src="https://img.shields.io/badge/个人主站-abohack.com-0f172a?style=for-the-badge&logo=googlechrome&logoColor=22d3ee" alt="个人主站" /></a>
-<a href="https://blog.abohack.com"><img src="https://img.shields.io/badge/博客-abohack-1d4ed8?style=for-the-badge&logo=astro&logoColor=white" alt="博客" /></a>
-<a href="https://resume.abohack.com"><img src="https://img.shields.io/badge/个人简历-Junbo_Le-7c3aed?style=for-the-badge&logo=readme&logoColor=white" alt="个人简历" /></a>
-<a href="https://status.abohack.com"><img src="https://img.shields.io/badge/服务状态-在线-059669?style=for-the-badge&logo=statuspage&logoColor=white" alt="服务状态" /></a>
-
-<br/><br/>
-
-`系统在线` &nbsp;·&nbsp; `构建` &nbsp;·&nbsp; `学习` &nbsp;·&nbsp; `发布`
+<p><sub>系统在线 · 构建 · 学习 · 发布</sub></p>
 
 </div>
 
