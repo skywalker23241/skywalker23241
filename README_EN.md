@@ -2,21 +2,18 @@
 
 <img width="100%" src="https://raw.githubusercontent.com/skywalker23241/skywalker23241/main/assets/minimal-header.svg" alt="Abo / Junbo Le" />
 
-<a href="https://github.com/skywalker23241"><img src="https://img.shields.io/badge/中文-Switch-64748b?style=for-the-badge" alt="切换到中文" /></a>
-<img src="https://img.shields.io/badge/English-Current-1d4ed8?style=for-the-badge" alt="Current language: English" />
+<p><a href="https://github.com/skywalker23241">中文</a> &nbsp;·&nbsp; <strong>English</strong></p>
 
-<br/><br/>
+<p><strong>Turning ideas into fast, useful, and discoverable products</strong></p>
 
-### Turning ideas into fast, useful, and discoverable products
+<p>
+<a href="https://abohack.com"><img src="https://img.shields.io/badge/Website-abohack.com-0f172a?style=flat-square&logo=googlechrome&logoColor=22d3ee" alt="Website" /></a>
+<a href="https://blog.abohack.com"><img src="https://img.shields.io/badge/Blog-abohack-1d4ed8?style=flat-square&logo=astro&logoColor=white" alt="Blog" /></a>
+<a href="https://resume.abohack.com"><img src="https://img.shields.io/badge/Resume-Junbo_Le-7c3aed?style=flat-square&logo=readme&logoColor=white" alt="Resume" /></a>
+<a href="https://status.abohack.com"><img src="https://img.shields.io/badge/Status-Online-059669?style=flat-square&logo=statuspage&logoColor=white" alt="Service status" /></a>
+</p>
 
-<a href="https://abohack.com"><img src="https://img.shields.io/badge/Website-abohack.com-0f172a?style=for-the-badge&logo=googlechrome&logoColor=22d3ee" alt="Website" /></a>
-<a href="https://blog.abohack.com"><img src="https://img.shields.io/badge/Blog-abohack-1d4ed8?style=for-the-badge&logo=astro&logoColor=white" alt="Blog" /></a>
-<a href="https://resume.abohack.com"><img src="https://img.shields.io/badge/Resume-Junbo_Le-7c3aed?style=for-the-badge&logo=readme&logoColor=white" alt="Resume" /></a>
-<a href="https://status.abohack.com"><img src="https://img.shields.io/badge/Status-Online-059669?style=for-the-badge&logo=statuspage&logoColor=white" alt="Service status" /></a>
-
-<br/><br/>
-
-`SYSTEM ONLINE` &nbsp;·&nbsp; `BUILDING` &nbsp;·&nbsp; `LEARNING` &nbsp;·&nbsp; `SHIPPING`
+<p><sub>SYSTEM ONLINE · BUILD · LEARN · SHIP</sub></p>
 
 </div>
 
