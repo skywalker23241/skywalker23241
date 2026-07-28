@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/skywalker23241/skywalker23241/main/assets/blackhole-header.svg" alt="Abo / Junbo Le" />
+<img width="100%" src="https://raw.githubusercontent.com/skywalker23241/skywalker23241/main/assets/blackhole-header.svg?v=minimal-1" alt="Abo / Junbo Le" />
 
 <img src="https://img.shields.io/badge/中文-当前语言-1d4ed8?style=for-the-badge" alt="当前语言：中文" />
 <a href="https://github.com/skywalker23241/skywalker23241/blob/main/README_EN.md"><img src="https://img.shields.io/badge/English-Switch-64748b?style=for-the-badge" alt="Switch to English" /></a>
@@ -132,6 +132,6 @@
 
 *“我们曾仰望星空，思考自己在群星之间的位置。”*
 
-<img width="100%" src="https://raw.githubusercontent.com/skywalker23241/skywalker23241/main/assets/blackhole-footer.svg" alt="页尾" />
+<img width="100%" src="https://raw.githubusercontent.com/skywalker23241/skywalker23241/main/assets/blackhole-footer.svg?v=minimal-1" alt="页尾" />
 
 </div>
