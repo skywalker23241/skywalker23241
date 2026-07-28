@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">Abo Universe black hole profile banner</title>
+<desc id="desc">A deep-space banner with a Gargantua-style black hole and Abo Junbo Le profile text.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#020304"/><stop offset=".55" stop-color="#050608"/><stop offset="1" stop-color="#0a0c10"/></linearGradient>
+  <radialGradient id="halo"><stop offset="0" stop-color="#f5cf91" stop-opacity=".35"/><stop offset=".35" stop-color="#e8b45f" stop-opacity=".13"/><stop offset="1" stop-color="#e8b45f" stop-opacity="0"/></radialGradient>
+  <linearGradient id="disk" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#9c5d25" stop-opacity="0"/><stop offset=".25" stop-color="#e8b45f" stop-opacity=".78"/><stop offset=".5" stop-color="#fff0cf"/><stop offset=".75" stop-color="#e8b45f" stop-opacity=".78"/><stop offset="1" stop-color="#9c5d25" stop-opacity="0"/></linearGradient>
+  <filter id="glow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="8" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <filter id="soft" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="20"/></filter>
+  <clipPath id="scene"><rect width="1200" height="360" rx="18"/></clipPath>
+</defs>
+<g clip-path="url(#scene)">
+  <rect width="1200" height="360" fill="url(#bg)"/>
+  <path d="M0 72H1200M0 288H1200" stroke="#fff" stroke-opacity=".035"/><path d="M72 0V360M1128 0V360" stroke="#fff" stroke-opacity=".035"/>
+  <g fill="#e8eaf0"><circle cx="54" cy="52" r="1" opacity=".55"/><circle cx="115" cy="102" r=".8" opacity=".32"/><circle cx="169" cy="34" r="1.2" opacity=".7"/><circle cx="225" cy="280" r=".8" opacity=".45"/><circle cx="352" cy="54" r=".7" opacity=".5"/><circle cx="430" cy="306" r="1.1" opacity=".62"/><circle cx="510" cy="82" r=".8" opacity=".35"/><circle cx="564" cy="326" r=".7" opacity=".45"/><circle cx="665" cy="42" r="1" opacity=".5"/><circle cx="744" cy="306" r=".8" opacity=".44"/><circle cx="826" cy="76" r=".8" opacity=".38"/><circle cx="900" cy="326" r="1.1" opacity=".55"/><circle cx="973" cy="38" r=".7" opacity=".45"/><circle cx="1044" cy="285" r=".8" opacity=".38"/><circle cx="1145" cy="88" r="1.2" opacity=".65"/><circle cx="1170" cy="232" r=".7" opacity=".35"/></g>
+  <g fill="#e8b45f"><circle cx="92" cy="225" r=".8" opacity=".55"/><circle cx="397" cy="130" r=".9" opacity=".6"/><circle cx="537" cy="238" r=".7" opacity=".5"/><circle cx="1082" cy="164" r=".8" opacity=".55"/></g>
+  <g transform="rotate(-8 290 180)"><ellipse cx="290" cy="180" rx="190" ry="78" fill="url(#halo)" filter="url(#soft)"/><ellipse cx="290" cy="180" rx="205" ry="52" fill="none" stroke="url(#disk)" stroke-width="2" opacity=".34"/><ellipse cx="290" cy="180" rx="175" ry="42" fill="none" stroke="url(#disk)" stroke-width="5" opacity=".9" filter="url(#glow)"/><ellipse cx="290" cy="180" rx="148" ry="33" fill="none" stroke="#f5cf91" stroke-width="1.4" stroke-dasharray="2 7" opacity=".78"/><ellipse cx="290" cy="180" rx="125" ry="26" fill="none" stroke="#e8b45f" stroke-width="1" stroke-dasharray="12 5" opacity=".48"/></g>
+  <circle cx="290" cy="180" r="115" fill="url(#halo)" opacity=".72"/><circle cx="290" cy="180" r="69" fill="#000"/><circle cx="290" cy="180" r="70" fill="none" stroke="#fff0d3" stroke-width="1.7" opacity=".96" filter="url(#glow)"/>
+  <path d="M232 149C250 107 330 101 351 148" fill="none" stroke="#f5cf91" stroke-width="2" opacity=".34" filter="url(#glow)"/><path d="M130 198C210 231 370 226 454 167" fill="none" stroke="url(#disk)" stroke-width="3.2" opacity=".92" filter="url(#glow)"/>
+  <line x1="505" y1="88" x2="505" y2="272" stroke="#e8b45f" stroke-opacity=".36"/><circle cx="505" cy="88" r="3" fill="#e8b45f" filter="url(#glow)"/>
+  <text x="550" y="100" fill="#e8b45f" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="4">ABO.UNIVERSE // OPERATOR PROFILE</text>
+  <text x="548" y="174" fill="#e8eaf0" font-family="Segoe UI,Arial,sans-serif" font-size="52" font-weight="700" letter-spacing="-1">Abo / Junbo Le</text>
+  <text x="550" y="216" fill="#9aa0ad" font-family="Segoe UI,Arial,sans-serif" font-size="18" letter-spacing="1.2">SEO Explorer · Web Builder · Independent Maker</text>
+  <text x="550" y="260" fill="#e8b45f" font-family="Consolas,monospace" font-size="12" letter-spacing="2">● SIGNAL ONLINE   /   SHENZHEN, CN</text>
+  <text x="78" y="330" fill="#565c68" font-family="Consolas,monospace" font-size="10" letter-spacing="2">EVENT HORIZON // BUILD · LEARN · OPTIMIZE · SHIP</text><text x="1125" y="330" text-anchor="end" fill="#565c68" font-family="Consolas,monospace" font-size="10" letter-spacing="2">BH-23241</text>
+</g></svg>
