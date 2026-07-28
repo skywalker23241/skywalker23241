@@ -1,133 +1,164 @@
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:2563eb,100:7c3aed&height=210&section=header&text=Abo%20%2F%20Junbo%20Le&fontColor=ffffff&fontSize=44&animation=fadeIn&fontAlignY=35&desc=SEO%20Explorer%20%C2%B7%20Web%20Builder%20%C2%B7%20Astro%20Learner&descAlignY=56&descSize=17" alt="Abo / Junbo Le" />
-</p>
+<div align="center">
 
-<h1 align="center">Hi, I'm Abo 👋</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:020617,50:0f172a,100:312e81&height=240&section=header&text=ABO%20%2F%2F%20JUNBO%20LE&fontColor=67e8f9&fontSize=42&animation=fadeIn&stroke=22d3ee&strokeWidth=1" alt="Abo // Junbo Le" />
 
-<p align="center">
-  I build fast websites, practical tools, and better paths for people and search engines to discover them.
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&repeat=true&width=760&height=45&lines=SEO+EXPLORER+%2F%2F+WEB+BUILDER;ASTRO+LEARNER+%2F%2F+PRODUCT+SHIPPER;BUILDING+FAST%2C+USEFUL%2C+DISCOVERABLE+THINGS" alt="SEO Explorer // Web Builder // Astro Learner" />
 
-<p align="center">
-  <a href="https://abohack.com"><img src="https://img.shields.io/badge/Website-abohack.com-0f172a?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Personal website" /></a>
-  <a href="https://blog.abohack.com"><img src="https://img.shields.io/badge/Blog-2563eb?style=for-the-badge&logo=astro&logoColor=white" alt="Blog" /></a>
-  <a href="https://resume.abohack.com"><img src="https://img.shields.io/badge/Resume-7c3aed?style=for-the-badge&logo=readme&logoColor=white" alt="Resume" /></a>
-</p>
+`[ SYSTEM ONLINE ]` &nbsp; `[ SHIPPING IN PUBLIC ]` &nbsp; `[ SIGNAL: STABLE ]`
+
+<br/><br/>
+
+<a href="https://abohack.com"><img src="https://img.shields.io/badge/MAINFRAME-ABOHACK.COM-020617?style=for-the-badge&logo=googlechrome&logoColor=22d3ee&labelColor=0f172a" alt="Personal website" /></a>
+<a href="https://blog.abohack.com"><img src="https://img.shields.io/badge/TRANSMISSIONS-BLOG-020617?style=for-the-badge&logo=astro&logoColor=a78bfa&labelColor=0f172a" alt="Blog" /></a>
+<a href="https://resume.abohack.com"><img src="https://img.shields.io/badge/IDENTITY-RESUME-020617?style=for-the-badge&logo=readme&logoColor=67e8f9&labelColor=0f172a" alt="Resume" /></a>
+<a href="https://status.abohack.com"><img src="https://img.shields.io/badge/UPLINK-STATUS-020617?style=for-the-badge&logo=statuspage&logoColor=34d399&labelColor=0f172a" alt="Service status" /></a>
+
+</div>
 
 ---
 
-## 🛰 Mission Control
+## `01 // OPERATOR PROFILE`
 
 ```text
-CALLSIGN       Abo
-REAL NAME      Junbo Le
-BASE           China
-FOCUS          SEO · Web Development · Lightweight Products
-CURRENT ARC    Astro · Technical SEO · AI-assisted Development
-MISSION        Build useful things, make them fast, and ship them
+CALLSIGN       ABO
+IDENTITY       JUNBO LE
+COORDINATES    CHINA
+ROLE           SEO EXPLORER · WEB BUILDER · INDEPENDENT MAKER
+CURRENT ARC    ASTRO · TECHNICAL SEO · AI-ASSISTED DEVELOPMENT
+DIRECTIVE      BUILD USEFUL THINGS, MAKE THEM FAST, SHIP THEM
 ```
 
-## 🌌 About Me
+<table>
+  <tr>
+    <td>🔭</td>
+    <td><b>BUILDING</b></td>
+    <td>Practical, local-first web products with a clear purpose</td>
+  </tr>
+  <tr>
+    <td>🌱</td>
+    <td><b>LEARNING</b></td>
+    <td>Astro, technical SEO, performance, and content architecture</td>
+  </tr>
+  <tr>
+    <td>✍️</td>
+    <td><b>TRANSMITTING</b></td>
+    <td>Notes about web development, tools, and digital exploration</td>
+  </tr>
+  <tr>
+    <td>🤖</td>
+    <td><b>EXPLORING</b></td>
+    <td>AI-assisted workflows that turn small ideas into shipped products</td>
+  </tr>
+</table>
 
-- 🔭 Building practical, local-first web products
-- 🌱 Going deeper into **Astro**, technical SEO, performance, and content architecture
-- ✍️ Writing about web development, tools, and digital exploration
-- 🤖 Exploring AI-assisted workflows that turn ideas into working products
-- 🧭 Optimizing for clean interfaces, fast pages, and useful outcomes
+---
 
-## 🚀 Featured Project
+## `02 // FEATURED BUILD`
 
-<h3 align="center">🌙 RestCal · 休历</h3>
+<div align="center">
 
-<p align="center">
-  <b>请假、出勤、工资核算、购票提醒——一页搞定的中国职场日历</b>
-</p>
+### 🌙 RestCal · 休历
 
-<p align="center">
-  A local-first workplace calendar for attendance, leave, salary calculations,<br/>
-  Chinese holidays, and train-ticket reminders.
-</p>
+**请假、出勤、工资核算、购票提醒 —— 一页搞定的中国职场日历**
 
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white" alt="PWA" />
-  <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" alt="Electron" />
-  <img src="https://img.shields.io/badge/Local--first-16a34a?style=flat-square" alt="Local-first" />
-  <img src="https://img.shields.io/badge/Offline--ready-b45309?style=flat-square" alt="Offline-ready" />
-</p>
+A local-first workplace calendar for attendance, leave, salary calculations,  
+Chinese holidays, train-ticket reminders, and offline-first workflows.
 
-<p align="center">
-  <a href="https://restcal.abohack.com"><b>🌐 Live Website</b></a>
-  &nbsp;·&nbsp;
-  <a href="https://restcal.abohack.com/app.html"><b>🚀 Open App</b></a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/skywalker23241/restcal-abohack"><b>⌨️ Source Code</b></a>
-</p>
+<img src="https://img.shields.io/badge/CORE-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827&labelColor=0f172a" alt="JavaScript" />
+<img src="https://img.shields.io/badge/MODE-PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white&labelColor=0f172a" alt="PWA" />
+<img src="https://img.shields.io/badge/DESKTOP-Electron-47848F?style=flat-square&logo=electron&logoColor=white&labelColor=0f172a" alt="Electron" />
+<img src="https://img.shields.io/badge/DATA-Local--first-16a34a?style=flat-square&labelColor=0f172a" alt="Local-first" />
+<img src="https://img.shields.io/badge/NETWORK-Offline--ready-b45309?style=flat-square&labelColor=0f172a" alt="Offline-ready" />
 
-<p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/skywalker23241/restcal-abohack/main/docs/screenshots/overview-light.png" alt="RestCal home screen showing the daily calendar, leave balance, attendance, salary estimate, and recent records" />
-</p>
+<br/><br/>
 
-## 🛠 Toolbox
+<a href="https://restcal.abohack.com"><img src="https://img.shields.io/badge/VIEW_PRODUCT-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View RestCal website" /></a>
+<a href="https://restcal.abohack.com/app.html"><img src="https://img.shields.io/badge/LAUNCH_APP-7c3aed?style=for-the-badge&logo=pwa&logoColor=white" alt="Launch RestCal" /></a>
+<a href="https://github.com/skywalker23241/restcal-abohack"><img src="https://img.shields.io/badge/SOURCE_CODE-111827?style=for-the-badge&logo=github&logoColor=white" alt="RestCal source code" /></a>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=astro,html,css,js,ts,react,tailwind,python,flask,sqlite,git,github,cloudflare,netlify,vscode&perline=8" alt="Technology stack" />
-</p>
+<br/><br/>
+
+<img width="100%" src="https://raw.githubusercontent.com/skywalker23241/restcal-abohack/main/docs/screenshots/overview-light.png" alt="RestCal home screen showing the daily calendar, leave balance, attendance, salary estimate, and recent records" />
+
+<sub>LOCAL-FIRST · ZERO BUILD · ZERO DEPENDENCIES · WEB + WINDOWS</sub>
+
+</div>
+
+---
+
+## `03 // TECHNOLOGY MATRIX`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=astro,html,css,js,ts,react,tailwind,python,flask,sqlite,git,github,cloudflare,netlify,vscode&perline=8" alt="Technology stack" />
+
+</div>
 
 ```text
-FRONTEND      HTML · CSS · JavaScript · TypeScript · Astro · React
-SEO           Technical SEO · On-page SEO · Content Structure · Performance
-BACKEND       Python · Flask · SQLite
-WORKFLOW      Git · GitHub · Netlify · Cloudflare · AI-assisted Coding
-PRINCIPLES    Fast · Accessible · Responsive · Local-first · Useful
+FRONTEND       HTML · CSS · JAVASCRIPT · TYPESCRIPT · ASTRO · REACT
+SEARCH         TECHNICAL SEO · ON-PAGE SEO · CONTENT STRUCTURE · PERFORMANCE
+BACKEND        PYTHON · FLASK · SQLITE
+INFRA          GIT · GITHUB · NETLIFY · CLOUDFLARE
+WORKFLOW       AI-ASSISTED CODING · RAPID PROTOTYPING · ITERATIVE SHIPPING
+PROTOCOL       FAST · ACCESSIBLE · RESPONSIVE · LOCAL-FIRST · USEFUL
 ```
 
-## 🧭 Current Orbit
+---
 
-- Shipping and improving **RestCal**
-- Refining reusable **Astro** themes and writing workflows
-- Studying technical SEO, structured content, and site performance
-- Turning small ideas into focused, maintainable products
+## `04 // ACTIVE MISSIONS`
 
-## ⚡ PageSpeed Insights
+```diff
++ SHIPPING AND IMPROVING RESTCAL
++ REFINING REUSABLE ASTRO THEMES AND WRITING WORKFLOWS
++ STUDYING TECHNICAL SEO, STRUCTURED CONTENT, AND WEB PERFORMANCE
++ TURNING SMALL IDEAS INTO FOCUSED, MAINTAINABLE PRODUCTS
+```
 
-<p align="center">
-  <img width="96%" src="https://page-speed.dev/_og/d/c_Lighthouse,domain_abohack.com,p_Ii9hYm9oYWNrLmNvbSI,s_SXXuwBGsRFFVEkTb.png" alt="PageSpeed Insights for abohack.com: Performance 92, Accessibility 95, Best Practices 100, SEO 100" />
-</p>
+---
 
-<p align="center"><sub>Mobile audit · Powered by Lighthouse · Refreshed by page-speed.dev</sub></p>
+## `05 // PAGESPEED TELEMETRY`
 
-## 📊 GitHub Signal
+<div align="center">
 
-<p align="center">
-  <img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=skywalker23241&theme=github" alt="Abo's GitHub contribution summary" />
-</p>
+<img width="96%" src="https://page-speed.dev/_og/d/c_Lighthouse,domain_abohack.com,p_Ii9hYm9oYWNrLmNvbSI,s_SXXuwBGsRFFVEkTb.png" alt="PageSpeed Insights for abohack.com: Performance 92, Accessibility 95, Best Practices 100, SEO 100" />
 
-<p align="center">
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=skywalker23241&theme=github" alt="Repositories by language" />
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=skywalker23241&theme=github" alt="GitHub statistics" />
-</p>
+<sub>MOBILE AUDIT · LIGHTHOUSE ENGINE · TELEMETRY REFRESHED BY PAGE-SPEED.DEV</sub>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=skywalker23241&hide_border=true" alt="GitHub contribution streak" />
-</p>
+</div>
 
-## ✦ Personal Frequency
+---
+
+## `06 // GITHUB SIGNAL`
+
+<div align="center">
+
+<img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=skywalker23241&theme=github" alt="Abo's GitHub contribution summary" />
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=skywalker23241&theme=github" alt="Repositories by language" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=skywalker23241&theme=github" alt="GitHub statistics" />
+
+<img src="https://streak-stats.demolab.com?user=skywalker23241&theme=default&hide_border=true" alt="GitHub contribution streak" />
+
+</div>
+
+---
+
+## `07 // PERSONAL TELEMETRY`
 
 ```text
-SCREEN         Interstellar · Marvel · Avengers
-SOUND          Imagine Dragons · The Weeknd · David Tao · Jay Chou
-GAME           Titanfall 2 · Halo · CS2 · League of Legends
+VISUAL FEED    INTERSTELLAR · MARVEL · AVENGERS
+AUDIO FEED     IMAGINE DRAGONS · THE WEEKND · DAVID TAO · JAY CHOU
+GAME LINK      TITANFALL 2 · HALO · CS2 · LEAGUE OF LEGENDS
 ```
 
-<p align="center">
-  <i>“We used to look up at the sky and wonder at our place in the stars.”</i>
-</p>
+<div align="center">
 
-<p align="center">
-  <b>Building · Learning · Optimizing · Shipping</b>
-</p>
+`BUILDING` → `LEARNING` → `OPTIMIZING` → `SHIPPING`
 
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:2563eb,100:0f172a&height=120&section=footer" alt="Footer" />
-</p>
+<br/><br/>
+
+<sub>“WE USED TO LOOK UP AT THE SKY AND WONDER AT OUR PLACE IN THE STARS.”</sub>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:0f172a,100:020617&height=120&section=footer" alt="Footer" />
+
+</div>
