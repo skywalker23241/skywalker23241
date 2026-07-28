@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:1d4ed8,100:7c3aed&height=215&section=header&text=Abo%20%2F%20Junbo%20Le&fontColor=ffffff&fontSize=44&animation=fadeIn&fontAlignY=36&desc=SEO%20Explorer%20%C2%B7%20Web%20Builder%20%C2%B7%20Independent%20Maker&descAlignY=58&descSize=17" alt="Abo / Junbo Le" />
+<img width="100%" src="https://raw.githubusercontent.com/skywalker23241/skywalker23241/main/assets/blackhole-header.svg" alt="Abo / Junbo Le" />
 
 <a href="https://github.com/skywalker23241"><img src="https://img.shields.io/badge/中文-Switch-64748b?style=for-the-badge" alt="切换到中文" /></a>
 <img src="https://img.shields.io/badge/English-Current-1d4ed8?style=for-the-badge" alt="Current language: English" />
@@ -132,6 +132,6 @@ GAMES     Titanfall 2 · Halo · CS2 · League of Legends
 
 *“We used to look up at the sky and wonder at our place in the stars.”*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:1d4ed8,100:020617&height=115&section=footer" alt="Footer" />
+<img width="100%" src="https://raw.githubusercontent.com/skywalker23241/skywalker23241/main/assets/blackhole-footer.svg" alt="Footer" />
 
 </div>
