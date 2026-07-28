@@ -117,7 +117,7 @@ PRINCIPLES    Fast · Accessible · Responsive · Local-first · Useful
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=skywalker23241&theme=default&hide_border=true" alt="GitHub contribution streak" />
+  <img src="https://streak-stats.demolab.com?user=skywalker23241&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
 ## ✦ Personal Frequency
