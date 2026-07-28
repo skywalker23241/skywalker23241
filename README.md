@@ -35,45 +35,37 @@ MISSION        Build useful things, make them fast, and ship them
 - 🤖 Exploring AI-assisted workflows that turn ideas into working products
 - 🧭 Optimizing for clean interfaces, fast pages, and useful outcomes
 
-## 🚀 Featured Projects
+## 🚀 Featured Project
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🌙 <a href="https://restcal.abohack.com">RestCal · 休历</a></h3>
-      <p>A local-first Chinese workplace calendar for attendance, leave, salary calculations, holiday planning, and train-ticket reminders.</p>
-      <p><code>JavaScript</code> <code>PWA</code> <code>Electron</code></p>
-      <a href="https://github.com/skywalker23241/restcal-abohack">Source →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>💎 <a href="https://val.abohack.com">RadiantShelf</a></h3>
-      <p>A self-hosted Valorant store viewer with favorites, multilingual UI, account binding, scheduled checks, and webhook notifications.</p>
-      <p><code>Python</code> <code>Flask</code> <code>SQLite</code></p>
-      <a href="https://github.com/skywalker23241/val-abohack">Source →</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📝 <a href="https://github.com/skywalker23241/abo-astro-blog-theme">Astro Blog Template</a></h3>
-      <p>A fast Astro 5 blog starter with MDX, KaTeX, light/dark themes, RSS, generated Open Graph images, and optional AI summaries.</p>
-      <p><code>Astro</code> <code>MDX</code> <code>TypeScript</code></p>
-      <a href="https://github.com/skywalker23241/abo-astro-blog-theme">Source →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>💰 <a href="https://github.com/skywalker23241/budget-abohack">Budget Assistant</a></h3>
-      <p>A browser-based personal finance dashboard for expenses, budgets, loans, goals, reports, reminders, and financial health scoring.</p>
-      <p><code>React</code> <code>TypeScript</code> <code>Zustand</code></p>
-      <a href="https://github.com/skywalker23241/budget-abohack">Source →</a>
-    </td>
-  </tr>
-</table>
+<h3 align="center">🌙 RestCal · 休历</h3>
 
 <p align="center">
-  <a href="https://blog.abohack.com"><b>Read the blog</b></a>
+  <b>请假、出勤、工资核算、购票提醒——一页搞定的中国职场日历</b>
+</p>
+
+<p align="center">
+  A local-first workplace calendar for attendance, leave, salary calculations,<br/>
+  Chinese holidays, and train-ticket reminders.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white" alt="PWA" />
+  <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" alt="Electron" />
+  <img src="https://img.shields.io/badge/Local--first-16a34a?style=flat-square" alt="Local-first" />
+  <img src="https://img.shields.io/badge/Offline--ready-b45309?style=flat-square" alt="Offline-ready" />
+</p>
+
+<p align="center">
+  <a href="https://restcal.abohack.com"><b>🌐 Live Website</b></a>
   &nbsp;·&nbsp;
-  <a href="https://status.abohack.com"><b>Service status</b></a>
+  <a href="https://restcal.abohack.com/app.html"><b>🚀 Open App</b></a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/skywalker23241?tab=repositories"><b>Explore all public projects</b></a>
+  <a href="https://github.com/skywalker23241/restcal-abohack"><b>⌨️ Source Code</b></a>
+</p>
+
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/skywalker23241/restcal-abohack/main/docs/screenshots/overview-light.png" alt="RestCal home screen showing the daily calendar, leave balance, attendance, salary estimate, and recent records" />
 </p>
 
 ## 🛠 Toolbox
