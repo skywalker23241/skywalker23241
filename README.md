@@ -12,7 +12,6 @@
   <a href="https://abohack.com"><img src="https://img.shields.io/badge/Website-abohack.com-0f172a?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Personal website" /></a>
   <a href="https://blog.abohack.com"><img src="https://img.shields.io/badge/Blog-2563eb?style=for-the-badge&logo=astro&logoColor=white" alt="Blog" /></a>
   <a href="https://resume.abohack.com"><img src="https://img.shields.io/badge/Resume-7c3aed?style=for-the-badge&logo=readme&logoColor=white" alt="Resume" /></a>
-  <a href="https://pagespeed.web.dev/analysis?url=https%3A%2F%2Fabohack.com%2F"><img src="https://img.shields.io/badge/PageSpeed-Insights-00bfa5?style=for-the-badge&logo=lighthouse&logoColor=white" alt="PageSpeed Insights for abohack.com" /></a>
 </p>
 
 ---
@@ -97,6 +96,14 @@ PRINCIPLES    Fast · Accessible · Responsive · Local-first · Useful
 - Refining reusable **Astro** themes and writing workflows
 - Studying technical SEO, structured content, and site performance
 - Turning small ideas into focused, maintainable products
+
+## ⚡ PageSpeed Insights
+
+<p align="center">
+  <img width="96%" src="https://page-speed.dev/_og/d/c_Lighthouse,domain_abohack.com,p_Ii9hYm9oYWNrLmNvbSI,s_SXXuwBGsRFFVEkTb.png" alt="PageSpeed Insights for abohack.com: Performance 92, Accessibility 95, Best Practices 100, SEO 100" />
+</p>
+
+<p align="center"><sub>Mobile audit · Powered by Lighthouse · Refreshed by page-speed.dev</sub></p>
 
 ## 📊 GitHub Signal
 
