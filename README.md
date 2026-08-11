@@ -4,16 +4,16 @@
 
 <p><strong>中文</strong> &nbsp;·&nbsp; <a href="https://github.com/skywalker23241/skywalker23241/blob/main/README_EN.md">English</a></p>
 
-<p><strong>用快速、实用、容易被发现的产品，把想法变成现实</strong></p>
+<h3>独立开发者 · 技术 SEO · Web 性能 · AI 辅助开发</h3>
+
+<p>把小想法做成 <strong>快速、实用、可被搜索发现</strong> 的产品。</p>
 
 <p>
 <a href="https://abohack.com"><img src="https://img.shields.io/badge/个人主站-abohack.com-0f172a?style=flat-square&logo=googlechrome&logoColor=22d3ee" alt="个人主站" /></a>
-<a href="https://blog.abohack.com"><img src="https://img.shields.io/badge/博客-abohack-1d4ed8?style=flat-square&logo=astro&logoColor=white" alt="博客" /></a>
-<a href="https://resume.abohack.com"><img src="https://img.shields.io/badge/个人简历-Junbo_Le-7c3aed?style=flat-square&logo=readme&logoColor=white" alt="个人简历" /></a>
-<a href="https://status.abohack.com"><img src="https://img.shields.io/badge/服务状态-在线-059669?style=flat-square&logo=statuspage&logoColor=white" alt="服务状态" /></a>
+<a href="https://blog.abohack.com"><img src="https://img.shields.io/badge/博客-blog.abohack.com-1d4ed8?style=flat-square&logo=astro&logoColor=white" alt="博客" /></a>
+<a href="https://resume.abohack.com"><img src="https://img.shields.io/badge/简历-Junbo_Le-7c3aed?style=flat-square&logo=readme&logoColor=white" alt="个人简历" /></a>
+<a href="https://status.abohack.com"><img src="https://img.shields.io/badge/服务状态-status.abohack.com-059669?style=flat-square&logo=statuspage&logoColor=white" alt="服务状态" /></a>
 </p>
-
-<p><sub>系统在线 · 构建 · 学习 · 发布</sub></p>
 
 </div>
 
@@ -21,22 +21,18 @@
 
 ## `01 // 关于我`
 
-| 档案 | 信息 |
-|---|---|
-| **代号** | Abo |
-| **身份** | Junbo Le · SEO 探索者 · Web 开发者 · 独立创作者 |
-| **坐标** | 中国深圳 |
-| **当前方向** | Astro · 技术 SEO · Web 性能 · AI 辅助开发 |
-| **任务** | 构建有用、轻量、快速的产品，并持续发布 |
+我是 **Abo / Junbo Le**，来自深圳，主要关注独立产品、技术 SEO、Web 性能与 AI 辅助开发。
 
-- 🔭 正在构建实用、以本地数据为核心的 Web 产品
-- 🌱 深入学习 Astro、技术 SEO、性能优化与内容架构
-- ✍️ 记录 Web 开发、工具与数字探索
-- 🤖 探索用 AI 辅助工作流把小想法快速变成产品
+- **产品**：偏爱轻量、响应式、本地优先、真正解决问题的 Web App
+- **搜索**：关注技术 SEO、内容结构、语义化、可发现性与 Core Web Vitals
+- **工程**：使用 Astro / React / TypeScript / Python，把原型快速推进到可维护的线上产品
+- **写作**：记录 Web 开发、工具、SEO 与数字探索 → [blog.abohack.com](https://blog.abohack.com)
+
+> 做能上线、能被找到、也愿意长期维护的东西。
 
 ---
 
-## `02 // 重点项目`
+## `02 // 旗舰项目`
 
 <div align="center">
 
@@ -44,74 +40,77 @@
 
 **请假、出勤、工资核算、购票提醒——一页搞定的中国职场日历**
 
-一个以本地数据为核心的中国职场日历，涵盖出勤与请假记录、工资核算、法定节假日、火车票提醒和离线使用。
+本地优先的中国职场日历，支持日 / 周 / 月 / 年视图、请假与出勤记录、工资核算、法定节假日、火车票提醒、CSV / WebDAV 备份、PWA 与 Windows 桌面版。
 
-<img src="https://img.shields.io/badge/核心-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827&labelColor=0f172a" alt="JavaScript" />
-<img src="https://img.shields.io/badge/模式-PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white&labelColor=0f172a" alt="PWA" />
-<img src="https://img.shields.io/badge/桌面端-Electron-47848F?style=flat-square&logo=electron&logoColor=white&labelColor=0f172a" alt="Electron" />
-<img src="https://img.shields.io/badge/数据-本地优先-16a34a?style=flat-square&labelColor=0f172a" alt="本地优先" />
-<img src="https://img.shields.io/badge/网络-离线可用-b45309?style=flat-square&labelColor=0f172a" alt="离线可用" />
+<p>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827" alt="JavaScript" />
+<img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white" alt="PWA" />
+<img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" alt="Electron" />
+<img src="https://img.shields.io/badge/Local--first-16a34a?style=flat-square" alt="Local first" />
+</p>
 
-<br/><br/>
+<p>
+<a href="https://restcal.abohack.com"><strong>产品主页</strong></a>
+&nbsp; · &nbsp;
+<a href="https://restcal.abohack.com/app.html"><strong>打开应用</strong></a>
+&nbsp; · &nbsp;
+<a href="https://github.com/skywalker23241/restcal-abohack"><strong>查看源码</strong></a>
+</p>
 
-<a href="https://restcal.abohack.com"><img src="https://img.shields.io/badge/产品主页-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="产品主页" /></a>
-<a href="https://restcal.abohack.com/app.html"><img src="https://img.shields.io/badge/打开应用-7c3aed?style=for-the-badge&logo=pwa&logoColor=white" alt="打开应用" /></a>
-<a href="https://github.com/skywalker23241/restcal-abohack"><img src="https://img.shields.io/badge/查看源码-111827?style=for-the-badge&logo=github&logoColor=white" alt="查看源码" /></a>
+<img width="100%" src="https://raw.githubusercontent.com/skywalker23241/restcal-abohack/main/public/assets/images/screenshots/overview-light.png" alt="休历首页：日历、假期额度、出勤、工资预估与最近记录" />
 
-<br/><br/>
-
-<img width="100%" src="https://raw.githubusercontent.com/skywalker23241/restcal-abohack/main/docs/screenshots/overview-light.png" alt="休历首页：日历、假期额度、出勤、工资预估与最近记录" />
-
-<sub>本地优先 · 零构建依赖 · 离线可用 · Web + Windows</sub>
+<sub>本地优先 · 离线可用 · Web + Windows · 数据由用户自己掌控</sub>
 
 </div>
 
 ---
 
-## `03 // 技术矩阵`
+## `03 // 更多项目`
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=astro,html,css,js,ts,react,tailwind,python,flask,sqlite,git,github,cloudflare,netlify,vscode&perline=8" alt="技术栈" />
-</div>
+| 项目 | 做什么 | 技术 |
+|---|---|---|
+| **[RadiantShelf](https://github.com/skywalker23241/val-abohack)** | Valorant 每日商店查看、收藏命中提醒与 Webhook 推送 | Flask · SQLite · Bootstrap |
+| **[个人预算记账助手](https://github.com/skywalker23241/budget-abohack)** | 收支、预算、贷款、财务目标与月度分析 | React · TypeScript · Tailwind · Zustand |
+| **[Astro Blog Template](https://github.com/skywalker23241/abo-astro-blog-theme)** | 面向写作与 SEO 的轻量 Astro 博客模板 | Astro 5 · MDX · KaTeX · Netlify |
+| **[SCFI Web Status Theme](https://github.com/skywalker23241/scfi-web-status-theme)** | 科幻 HUD 风格的无服务器状态页主题 · [Live Demo](https://status.abohack.com/) | Next.js · Cloudflare Pages / Workers |
 
-| 模块 | 技术 |
+---
+
+## `04 // 技术矩阵`
+
+**Frontend**  
+`HTML` · `CSS` · `JavaScript` · `TypeScript` · `Astro` · `React` · `Tailwind CSS`
+
+**Backend & Data**  
+`Python` · `Flask` · `SQLite` · `LocalStorage` · `WebDAV`
+
+**Infra & Delivery**  
+`Git` · `GitHub` · `Cloudflare` · `Netlify` · `PWA` · `Electron`
+
+**SEO & Performance**  
+`Technical SEO` · `Semantic HTML` · `Structured Content` · `Sitemap` · `Open Graph` · `Core Web Vitals`
+
+---
+
+## `05 // 我在意的产品原则`
+
+| 原则 | 实践 |
 |---|---|
-| **前端** | HTML · CSS · JavaScript · TypeScript · Astro · React |
-| **搜索** | 技术 SEO · 页面 SEO · 内容结构 · 性能优化 |
-| **后端** | Python · Flask · SQLite |
-| **基础设施** | Git · GitHub · Netlify · Cloudflare |
-| **工作方式** | AI 辅助开发 · 快速原型 · 迭代发布 |
-| **产品原则** | 快速 · 易用 · 响应式 · 本地优先 · 解决真实问题 |
+| **快** | 控制依赖、减少无意义 JavaScript、优先真实加载体验 |
+| **好用** | 响应式、清晰的信息层级、减少操作成本 |
+| **可发现** | 从语义结构、内容架构和技术 SEO 开始设计 |
+| **可维护** | 简单架构、明确数据边界、能长期迭代而不是一次性 Demo |
+| **用户掌控数据** | 能本地存储就不强制上云，能导出就不锁定 |
 
 ---
 
-## `04 // 当前任务`
+## `06 // 当前构建中`
 
-- 持续改进并发布休历
-- 打磨可复用的 Astro 主题与写作工作流
-- 研究技术 SEO、结构化内容与 Web 性能
-- 把小想法变成专注、可维护的产品
-
----
-
-## `05 // 性能遥测`
-
-<div align="center">
-<img width="96%" src="https://page-speed.dev/_og/d/c_Lighthouse,domain_abohack.com,p_Ii9hYm9oYWNrLmNvbSI,s_SXXuwBGsRFFVEkTb.png" alt="abohack.com PageSpeed Insights：性能 92、无障碍 95、最佳实践 100、SEO 100" />
-<br/>
-<sub>移动端测试 · Lighthouse 引擎 · 由 page-speed.dev 刷新</sub>
-</div>
-
----
-
-## `06 // GITHUB 信号`
-
-<div align="center">
-<img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=skywalker23241&theme=github" alt="GitHub 贡献概览" />
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=skywalker23241&theme=github" alt="仓库语言分布" />
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=skywalker23241&theme=github" alt="GitHub 统计" />
-<img src="https://streak-stats.demolab.com?user=skywalker23241&theme=default&hide_border=true" alt="GitHub 连续贡献" />
-</div>
+- 持续改进 **休历 RestCal** 的日历、工资、备份与桌面体验
+- 打磨可复用的 **Astro Blog Template** 与个人写作工作流
+- 完善 **个人预算记账助手** 的数据展示与交互设计
+- 继续研究技术 SEO、结构化内容、Core Web Vitals 与 Web 性能
+- 用 AI 辅助开发缩短「想法 → 原型 → 发布」的距离
 
 ---
 
@@ -127,7 +126,9 @@
 
 **构建 · 学习 · 优化 · 发布**
 
-*“我们曾仰望星空，思考自己在群星之间的位置。”*
+<sub>Build useful things. Make them fast. Make them discoverable.</sub>
+
+<br/><br/>
 
 <img width="100%" src="https://raw.githubusercontent.com/skywalker23241/skywalker23241/main/assets/minimal-footer.svg" alt="页尾" />
 
