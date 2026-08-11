@@ -117,9 +117,9 @@ A local-first workplace calendar with day / week / month / year views, leave and
 ## `07 // PERSONAL CHANNELS`
 
 ```text
-SCREEN    Interstellar · Marvel · Avengers
+SCREEN    Interstellar · Marvel · Avengers · Nolan
 SOUND     Imagine Dragons · The Weeknd · David Tao · Jay Chou
-GAMES     Titanfall 2 · Halo · CS2 · League of Legends
+GAMES     Titanfall 2 · Halo · CS2 · League of Legends · Valorant · Delta Force
 ```
 
 <div align="center">
