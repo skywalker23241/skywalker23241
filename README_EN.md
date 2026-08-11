@@ -2,18 +2,18 @@
 
 <img width="100%" src="https://raw.githubusercontent.com/skywalker23241/skywalker23241/main/assets/minimal-header.svg" alt="Abo / Junbo Le" />
 
-<p><a href="https://github.com/skywalker23241">中文</a> &nbsp;·&nbsp; <strong>English</strong></p>
+<p><a href="https://github.com/skywalker23241/skywalker23241/blob/main/README.md">中文</a> &nbsp;·&nbsp; <strong>English</strong></p>
 
-<p><strong>Turning ideas into fast, useful, and discoverable products</strong></p>
+<h3>Independent Developer · Technical SEO · Web Performance · AI-assisted Development</h3>
+
+<p>Turning small ideas into <strong>fast, useful, and discoverable</strong> products.</p>
 
 <p>
 <a href="https://abohack.com"><img src="https://img.shields.io/badge/Website-abohack.com-0f172a?style=flat-square&logo=googlechrome&logoColor=22d3ee" alt="Website" /></a>
-<a href="https://blog.abohack.com"><img src="https://img.shields.io/badge/Blog-abohack-1d4ed8?style=flat-square&logo=astro&logoColor=white" alt="Blog" /></a>
+<a href="https://blog.abohack.com"><img src="https://img.shields.io/badge/Blog-blog.abohack.com-1d4ed8?style=flat-square&logo=astro&logoColor=white" alt="Blog" /></a>
 <a href="https://resume.abohack.com"><img src="https://img.shields.io/badge/Resume-Junbo_Le-7c3aed?style=flat-square&logo=readme&logoColor=white" alt="Resume" /></a>
-<a href="https://status.abohack.com"><img src="https://img.shields.io/badge/Status-Online-059669?style=flat-square&logo=statuspage&logoColor=white" alt="Service status" /></a>
+<a href="https://status.abohack.com"><img src="https://img.shields.io/badge/Status-status.abohack.com-059669?style=flat-square&logo=statuspage&logoColor=white" alt="Service status" /></a>
 </p>
-
-<p><sub>SYSTEM ONLINE · BUILD · LEARN · SHIP</sub></p>
 
 </div>
 
@@ -21,97 +21,96 @@
 
 ## `01 // ABOUT`
 
-| Profile | Details |
+I'm **Abo / Junbo Le**, based in Shenzhen, China. I focus on independent products, technical SEO, web performance, and AI-assisted development.
+
+- **Products**: lightweight, responsive, local-first web apps that solve real problems
+- **Search**: technical SEO, content structure, semantic markup, discoverability, and Core Web Vitals
+- **Engineering**: Astro / React / TypeScript / Python, moving quickly from prototype to maintainable production software
+- **Writing**: web development, tools, SEO, and digital exploration → [blog.abohack.com](https://blog.abohack.com)
+
+> Build things that can ship, can be found, and are worth maintaining.
+
+---
+
+## `02 // FLAGSHIP PROJECT`
+
+<div align="center">
+
+### 🌙 休历 · RestCal
+
+**Leave, attendance, salary calculations, and ticket reminders—all in one Chinese workplace calendar.**
+
+A local-first workplace calendar with day / week / month / year views, leave and attendance tracking, salary calculations, Chinese public holidays, train-ticket reminders, CSV / WebDAV backup, PWA support, and a Windows desktop app.
+
+<p>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827" alt="JavaScript" />
+<img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white" alt="PWA" />
+<img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" alt="Electron" />
+<img src="https://img.shields.io/badge/Local--first-16a34a?style=flat-square" alt="Local first" />
+</p>
+
+<p>
+<a href="https://restcal.abohack.com"><strong>Product Site</strong></a>
+&nbsp; · &nbsp;
+<a href="https://restcal.abohack.com/app.html"><strong>Launch App</strong></a>
+&nbsp; · &nbsp;
+<a href="https://github.com/skywalker23241/restcal-abohack"><strong>Source Code</strong></a>
+</p>
+
+<img width="100%" src="https://raw.githubusercontent.com/skywalker23241/restcal-abohack/main/public/assets/images/screenshots/overview-light.png" alt="RestCal home screen showing calendar, leave balance, attendance, salary estimate, and recent records" />
+
+<sub>Local-first · Offline-ready · Web + Windows · Your data stays under your control</sub>
+
+</div>
+
+---
+
+## `03 // MORE PROJECTS`
+
+| Project | What it does | Stack |
+|---|---|---|
+| **[RadiantShelf](https://github.com/skywalker23241/val-abohack)** | Valorant daily store viewer, favorites alerts, and Webhook notifications | Flask · SQLite · Bootstrap |
+| **[Personal Budget App](https://github.com/skywalker23241/budget-abohack)** | Income, expenses, budgets, loans, financial goals, and monthly analysis | React · TypeScript · Tailwind · Zustand |
+| **[Astro Blog Template](https://github.com/skywalker23241/abo-astro-blog-theme)** | Lightweight Astro blog template built for writing and SEO | Astro 5 · MDX · KaTeX · Netlify |
+| **[SCFI Web Status Theme](https://github.com/skywalker23241/scfi-web-status-theme)** | Sci-fi HUD-style serverless status-page theme · [Live Demo](https://status.abohack.com/) | Next.js · Cloudflare Pages / Workers |
+
+---
+
+## `04 // TECH MATRIX`
+
+**Frontend**  
+`HTML` · `CSS` · `JavaScript` · `TypeScript` · `Astro` · `React` · `Tailwind CSS`
+
+**Backend & Data**  
+`Python` · `Flask` · `SQLite` · `LocalStorage` · `WebDAV`
+
+**Infra & Delivery**  
+`Git` · `GitHub` · `Cloudflare` · `Netlify` · `PWA` · `Electron`
+
+**SEO & Performance**  
+`Technical SEO` · `Semantic HTML` · `Structured Content` · `Sitemap` · `Open Graph` · `Core Web Vitals`
+
+---
+
+## `05 // PRODUCT PRINCIPLES`
+
+| Principle | How I apply it |
 |---|---|
-| **Callsign** | Abo |
-| **Identity** | Junbo Le · SEO Explorer · Web Builder · Independent Maker |
-| **Location** | Shenzhen, China |
-| **Current Focus** | Astro · Technical SEO · Web Performance · AI-assisted Development |
-| **Mission** | Build useful, lightweight, fast products—and keep shipping |
-
-- 🔭 Building practical, local-first web products
-- 🌱 Going deeper into Astro, technical SEO, performance, and content architecture
-- ✍️ Writing about web development, tools, and digital exploration
-- 🤖 Exploring AI-assisted workflows that turn small ideas into shipped products
+| **Fast** | Keep dependencies under control, avoid unnecessary JavaScript, optimize for real loading experience |
+| **Usable** | Responsive interfaces, clear information hierarchy, fewer interaction costs |
+| **Discoverable** | Design around semantic structure, content architecture, and technical SEO from the start |
+| **Maintainable** | Simple architecture, clear data boundaries, products that can evolve beyond a one-off demo |
+| **User-owned data** | Prefer local storage when possible, provide export paths, avoid unnecessary lock-in |
 
 ---
 
-## `02 // FEATURED PROJECT`
+## `06 // CURRENTLY BUILDING`
 
-<div align="center">
-
-### 🌙 RestCal · 休历
-
-**Attendance, leave, salary calculations, and ticket reminders—all in one Chinese workplace calendar.**
-
-A local-first workplace calendar covering attendance and leave records, salary calculations, Chinese public holidays, train-ticket reminders, and offline use.
-
-<img src="https://img.shields.io/badge/Core-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827&labelColor=0f172a" alt="JavaScript" />
-<img src="https://img.shields.io/badge/Mode-PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white&labelColor=0f172a" alt="PWA" />
-<img src="https://img.shields.io/badge/Desktop-Electron-47848F?style=flat-square&logo=electron&logoColor=white&labelColor=0f172a" alt="Electron" />
-<img src="https://img.shields.io/badge/Data-Local--first-16a34a?style=flat-square&labelColor=0f172a" alt="Local-first" />
-<img src="https://img.shields.io/badge/Network-Offline--ready-b45309?style=flat-square&labelColor=0f172a" alt="Offline-ready" />
-
-<br/><br/>
-
-<a href="https://restcal.abohack.com"><img src="https://img.shields.io/badge/View_Website-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View website" /></a>
-<a href="https://restcal.abohack.com/app.html"><img src="https://img.shields.io/badge/Launch_App-7c3aed?style=for-the-badge&logo=pwa&logoColor=white" alt="Launch app" /></a>
-<a href="https://github.com/skywalker23241/restcal-abohack"><img src="https://img.shields.io/badge/Source_Code-111827?style=for-the-badge&logo=github&logoColor=white" alt="Source code" /></a>
-
-<br/><br/>
-
-<img width="100%" src="https://raw.githubusercontent.com/skywalker23241/restcal-abohack/main/docs/screenshots/overview-light.png" alt="RestCal home screen showing the calendar, leave balance, attendance, salary estimate, and recent records" />
-
-<sub>LOCAL-FIRST · ZERO BUILD DEPENDENCIES · OFFLINE-READY · WEB + WINDOWS</sub>
-
-</div>
-
----
-
-## `03 // TECH MATRIX`
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=astro,html,css,js,ts,react,tailwind,python,flask,sqlite,git,github,cloudflare,netlify,vscode&perline=8" alt="Technology stack" />
-</div>
-
-| Module | Technologies |
-|---|---|
-| **Frontend** | HTML · CSS · JavaScript · TypeScript · Astro · React |
-| **Search** | Technical SEO · On-page SEO · Content Structure · Performance |
-| **Backend** | Python · Flask · SQLite |
-| **Infrastructure** | Git · GitHub · Netlify · Cloudflare |
-| **Workflow** | AI-assisted Coding · Rapid Prototyping · Iterative Shipping |
-| **Principles** | Fast · Accessible · Responsive · Local-first · Useful |
-
----
-
-## `04 // CURRENT MISSIONS`
-
-- Shipping and improving RestCal
-- Refining reusable Astro themes and writing workflows
-- Studying technical SEO, structured content, and web performance
-- Turning small ideas into focused, maintainable products
-
----
-
-## `05 // PAGESPEED TELEMETRY`
-
-<div align="center">
-<img width="96%" src="https://page-speed.dev/_og/d/c_Lighthouse,domain_abohack.com,p_Ii9hYm9oYWNrLmNvbSI,s_SXXuwBGsRFFVEkTb.png" alt="PageSpeed Insights for abohack.com: Performance 92, Accessibility 95, Best Practices 100, SEO 100" />
-<br/>
-<sub>MOBILE AUDIT · LIGHTHOUSE ENGINE · REFRESHED BY PAGE-SPEED.DEV</sub>
-</div>
-
----
-
-## `06 // GITHUB SIGNAL`
-
-<div align="center">
-<img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=skywalker23241&theme=github" alt="GitHub contribution summary" />
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=skywalker23241&theme=github" alt="Repositories by language" />
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=skywalker23241&theme=github" alt="GitHub statistics" />
-<img src="https://streak-stats.demolab.com?user=skywalker23241&theme=default&hide_border=true" alt="GitHub contribution streak" />
-</div>
+- Continuously improving **RestCal** across calendar, salary, backup, and desktop experiences
+- Refining a reusable **Astro Blog Template** and personal publishing workflow
+- Improving data presentation and interaction design in the **Personal Budget App**
+- Exploring technical SEO, structured content, Core Web Vitals, and web performance
+- Using AI-assisted development to shorten the path from **idea → prototype → shipped product**
 
 ---
 
@@ -125,9 +124,11 @@ GAMES     Titanfall 2 · Halo · CS2 · League of Legends
 
 <div align="center">
 
-**BUILDING · LEARNING · OPTIMIZING · SHIPPING**
+**BUILD · LEARN · OPTIMIZE · SHIP**
 
-*“We used to look up at the sky and wonder at our place in the stars.”*
+<sub>Build useful things. Make them fast. Make them discoverable.</sub>
+
+<br/><br/>
 
 <img width="100%" src="https://raw.githubusercontent.com/skywalker23241/skywalker23241/main/assets/minimal-footer.svg" alt="Footer" />
 
