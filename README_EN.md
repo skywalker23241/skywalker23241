@@ -36,7 +36,7 @@ I'm **Abo / Junbo Le**, based in Shenzhen, China. I focus on independent product
 
 <div align="center">
 
-### 🌙 休历 · RestCal
+<h3><img src="https://raw.githubusercontent.com/skywalker23241/restcal-abohack/main/public/assets/icons/icon-192.png" width="28" height="28" align="absmiddle" alt="RestCal icon"> 休历 · RestCal</h3>
 
 **Leave, attendance, salary calculations, and ticket reminders—all in one Chinese workplace calendar.**
 
