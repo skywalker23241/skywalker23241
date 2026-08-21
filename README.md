@@ -36,7 +36,7 @@
 
 <div align="center">
 
-### 🌙 休历 · RestCal
+<h3><img src="https://raw.githubusercontent.com/skywalker23241/restcal-abohack/main/public/assets/icons/icon-192.png" width="28" height="28" align="absmiddle" alt="休历图标"> 休历 · RestCal</h3>
 
 **请假、出勤、工资核算、购票提醒——一页搞定的中国职场日历**
 
